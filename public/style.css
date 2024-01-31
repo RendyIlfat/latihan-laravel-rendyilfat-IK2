@@ -1,0 +1,193 @@
+.logo {
+    width: 220px;
+    height: auto;
+}
+
+.side-title > h3 {
+    font-size: 21px;
+    margin-bottom: 3px;
+}
+
+.side-title > p {
+    font-size: 12px;
+    margin-bottom: 3px;
+}
+
+.sosial-media > img {
+    width: 30px;
+    height: auto;
+}
+
+.navbar-custom {
+    background-image: url(images/bg-menu.jpg);
+}
+
+li.active {
+    background-image: url(images/bg-menu-hover.png);
+}
+
+.nav-item {
+    padding: 0px 10px;
+}
+
+.carousel-indicators {
+    display: none;
+}
+
+#custom-carousel .carousel-indicators {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -54px;
+}
+
+#custom-carousel .carousel-indicators li {
+    background-color: black;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    list-style: none;
+}
+
+#custom-carousel .carousel-indicators .active {
+    background-color: #fff;
+}
+
+#custom-carousel .carousel-indicators li::before {
+    content: none;
+}
+
+body {
+    background-color: white;
+}
+
+#custom-carousel .carousel {
+    background-color: violet;
+}
+
+#custom-container {
+    padding: 50px;
+    margin-top: 60px;
+}
+
+#custom-carousel {
+    position: relative;
+    background-color: #ffffff;
+    width: 75%;
+    margin: 0px auto;
+    border: 2px solid #dee2e6;
+    border-radius: 0px;
+    overflow: visible;
+    z-index: 1;
+}
+
+#custom-carousel img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    margin: 20 auto;
+    display: block;
+    border-radius: 0px;
+    z-index: 3;
+}
+
+.container#sld {
+    background-color: #0f3065;
+    max-width: 100%;
+    width: auto;
+    height: 530px;
+}
+
+.clearfix {
+    background-color: white;
+}
+
+.pdg {
+    padding-top: 20px;
+}
+
+.foto {
+    max-width: 100px;
+}
+
+.marg-kiri {
+    padding: 10px 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.custom-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.custom-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex: 1;
+    margin: 0 15px;
+    box-sizing: border-box;
+}
+
+.card {
+    background-color: #F7F7F7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    border-radius: 0px;
+}
+
+.card-img-top {
+    max-width: 20%;
+    height: auto;
+    border-radius: 0px;
+}
+
+.btn-primary {
+    background-color: #09325E;
+    border-color: #09325E;
+    border-radius: 0px;
+}
+
+.judul {
+    color: #153870;
+}
+
+.news > .title {
+    color: #6294C0;
+}
+
+.news > .desc {
+    color: #877E85;
+}
+
+.footer {
+    background-color: #0F3065;
+}
+
+.kartu > img {
+    width: 250px;
+    height: 200px;
+}
+
+.ro {
+    margin-left: 88px !important;
+}
+
+.logo2 {
+    width: 295px;
+    height: auto;
+}
+
+.logo3 {
+    width: 350px;
+    height: auto;
+}
