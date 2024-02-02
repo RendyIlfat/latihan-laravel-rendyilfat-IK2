@@ -8,7 +8,11 @@
     <title>@yield('title')</title>
 
     <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/fontawesome/free/webfonts">
+    <link rel="stylesheet" href="/fontawesome/css/all.min.css">
+
+
 </head>
 <body>
 

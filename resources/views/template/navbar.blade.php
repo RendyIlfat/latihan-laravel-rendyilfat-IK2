@@ -33,11 +33,13 @@
       <div class="row" style="padding-left: px; padding-right: px;">
           <div class="col-12">
 
-                <nav class="navbar navbar-expand-lg py-0">
+                <nav class="navbar navbar-expand-lg py-0 pb-2">
                     <div class="container-fluid">
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav">
 
+                                <i class="fa-solid fa-coffee fa-2xl text-light mt-4 me-4"></i>
+                                <a class="navbar-brand text-light" href="#">RendyIlfat</a>
                                 <li class="nav-item">
                                     <a class="nav-link text-light" href="/">Home</a>
                                 </li>

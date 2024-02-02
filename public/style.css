@@ -56,15 +56,24 @@ li.active {
     background-color: #fff;
 }
 
-#custom-carousel .carousel-indicators li::before {
+.footer {
+    background-color: #0F3065;
+}
+
+.btn-primary {
+    background-color: #09325E;
+    border-color: #09325E;
+}
+
+/* #custom-carousel .carousel-indicators li::before {
     content: none;
-}
+} */
 
-body {
+/* body {
     background-color: white;
-}
+} */
 
-#custom-carousel .carousel {
+/* #custom-carousel .carousel {
     background-color: violet;
 }
 
@@ -149,15 +158,15 @@ body {
     max-width: 20%;
     height: auto;
     border-radius: 0px;
-}
-
-.btn-primary {
+} */
+/* .btn-primary {
     background-color: #09325E;
     border-color: #09325E;
     border-radius: 0px;
-}
+} */
 
-.judul {
+
+/* .judul {
     color: #153870;
 }
 
@@ -169,17 +178,13 @@ body {
     color: #877E85;
 }
 
-.footer {
-    background-color: #0F3065;
-}
-
 .kartu > img {
     width: 250px;
     height: 200px;
 }
 
 .ro {
-    margin-left: 88px !important;
+    margin-left: 88px !important; 
 }
 
 .logo2 {
@@ -190,4 +195,4 @@ body {
 .logo3 {
     width: 350px;
     height: auto;
-}
+} */

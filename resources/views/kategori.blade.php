@@ -17,7 +17,7 @@
             <table class="table">
                 <thead>
                 <tr>
-                    <th scope="col">#</th>
+                    <th scope="col">Kode Kategori</th>
                     <th scope="col">Nama</th>
                     <th scope="col">Keterangan</th>
                     <th style="max-width: 200px"></th>
@@ -46,4 +46,5 @@
             </table>
         </div>
     </div>
+</div>
 @endsection
