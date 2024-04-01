@@ -1,4 +1,4 @@
-{{-- <div class="container">
+<!-- {{-- <div class="container">
     <div class="row">
         <div class="col-12">
             <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -26,7 +26,7 @@
             </nav>
         </div>
     </div>
-</div> --}}
+</div> --}} -->
 
 <div class="container-fluid px-0 navbar-custom">
     <div class="container">
